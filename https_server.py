@@ -84,4 +84,5 @@ if __name__ == '__main__':
 
     check_and_prepare_certificates()
     prepare_movies_list()
+
     run_server()
